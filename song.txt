@@ -11,3 +11,5 @@ love
 print
 cat
 dog
+
+tags only
